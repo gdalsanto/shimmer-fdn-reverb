@@ -1,4 +1,4 @@
-# dafx26-shimmer-reverb
+# shimmer-fdn-reverb
 
 Companion repository of the submitted DAFx26 paper "Shimmer Reverberation with Nonlinear Feedback Delay Networks."  
 Audio examples can be found at [this link](http://research.spa.aalto.fi/publications/papers/dafx26-shimmer/).
