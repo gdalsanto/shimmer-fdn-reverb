@@ -1,6 +1,7 @@
 # dafx26-shimmer-reverb
 
-Companion repository of the submitted DAFx26 paper "Shimmer Reverberation with Nonlinear Feedback Delay Networks"
+Companion repository of the submitted DAFx26 paper "Shimmer Reverberation with Nonlinear Feedback Delay Networks."  
+Audio examples can be found at [this link](http://research.spa.aalto.fi/publications/papers/dafx26-shimmer/).
 
 This repository contains Python implementations and analysis notebooks used to prototype and evaluate nonlinear and time-varying blocks for shimmer-reverb design.
 
